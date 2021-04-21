@@ -1,5 +1,7 @@
 ---
+layout: splash
 permalink: /
+hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
@@ -33,4 +35,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
+왜 왜... 왜 
