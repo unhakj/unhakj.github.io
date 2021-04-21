@@ -1,19 +1,12 @@
 ---
 title: "운학정 소개"
+permalink: /about/
 header:
   overlay_image: /assets/images/unhakjeong.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
