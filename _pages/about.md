@@ -1,19 +1,25 @@
 ---
 title: "운학정 소개"
-permalink: /about/
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-02-05T20:54:41-05:00
-toc: true
+header:
+  overlay_image: /assets/images/unhakjeong.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn more"
+      url: "https://unsplash.com"
+categories:
+  - Layout
+  - Uncategorized
+tags:
+  - edge case
+  - image
+  - layout
+last_modified_at: 2018-03-20T16:00:52-04:00
 ---
-# 운학정 소개
-경기도 광명시 운학정 입니다.
+
+This post should display a **header with an overlay image**, if the theme supports it.
+
+Non-square images can provide some unique styling issues.
+
+This post tests overlay header images.
+
+## Overlay filter
