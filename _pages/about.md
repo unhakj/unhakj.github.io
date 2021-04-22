@@ -1,6 +1,6 @@
 ---
 title: "운학정 소개"
-permalink: /about/
+permalink: /about
 header:
   overlay_image: /assets/images/unhakjeong.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

@@ -1,7 +1,7 @@
 ---
 title: "대회"
 layout: archive
-permalink: categories/game
+permalink: /categories/game
 author_profile: true
 sidebar_main: true
 ---
