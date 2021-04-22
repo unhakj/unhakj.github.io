@@ -1,5 +1,5 @@
 ---
-title: "월례회"
+title: "운학정 소개"
 layout: archive
 permalink: /categories/meeting
 author_profile: true

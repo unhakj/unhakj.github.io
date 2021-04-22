@@ -1,5 +1,5 @@
 ---
-title: "대회"
+title: "궁도대회"
 layout: archive
 permalink: /categories/game
 author_profile: true

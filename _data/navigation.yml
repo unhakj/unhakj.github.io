@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "소개"
-    url: /about/
+    url: /categories/about
   - title: "이야기"
-    url: /categories/
-# - title: "Tag"
-#   url: /tags/
+    url: /categories/unhak
+  - title: "궁도대회"
+    url: /categories/game
     
 # - title: "Quick-Start Guide"
 #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
