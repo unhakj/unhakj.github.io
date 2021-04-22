@@ -3,7 +3,7 @@ title: "월례회"
 layout: archive
 permalink: categories/meeting
 author_profile: true
-#sidebar_main: true
+sidebar_main: true
 ---
 
 
