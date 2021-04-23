@@ -1,12 +1,36 @@
 ---
-title: "운학정 소개"
-permalink: /about
+title: "운학정"
+permalink: ./
 header:
   overlay_image: /assets/images/unhakjeong.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Learn more"
-      url: "/about/unhak-history/"
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
+feature_row:
+  - image_path: https://github.com/mmistakes/minimal-mistakes/assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: https://github.com/mmistakes/minimal-mistakes/assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: https://github.com/mmistakes/minimal-mistakes/assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"    
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
@@ -16,3 +40,12 @@ Non-square images can provide some unique styling issues.
 This post tests overlay header images.
 
 ## Overlay filter
+
+title: "운학정 소개"
+permalink: /about
+header:
+  overlay_image: /assets/images/unhakjeong.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn more"
+      url: "/about/unhak-history/"
