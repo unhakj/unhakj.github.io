@@ -1,8 +1,7 @@
 ---
-title: "운학정 소개"
-permalink: /
+title: "운학정"
+permalink: ./
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/unhakjeong.png
   actions:
     - label: "<i class='fas fa-download'></i> Install now"

@@ -6,7 +6,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
-      url: "https://unsplash.com"
+      url: "/about/unhak-history/"
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
