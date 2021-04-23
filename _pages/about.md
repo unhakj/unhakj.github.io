@@ -1,6 +1,6 @@
 ---
 title: "운학정"
-permalink: ./
+permalink: /
 header:
   overlay_image: /assets/images/unhakjeong.png
   actions:
