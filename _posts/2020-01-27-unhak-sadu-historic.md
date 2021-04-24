@@ -15,7 +15,16 @@ tags:
 
 
 
-## 운학정 역대 사두             
+## 운학정 역대 사두
+| Notice Type | Class              |
+| ----------- | -----              |
+| Default     | `.notice`          |
+| Primary     | `.notice--primary` |
+| Info        | `.notice--info`    |
+| Warning     | `.notice--warning` |
+| Success     | `.notice--success` |
+| Danger      | `.notice--danger`  |
+
 | 대수  | 성명   | 기간         | 비고  |
 | ----- | ----- | -----        | ----- |
 | 1     | 김기동 |             |   |
