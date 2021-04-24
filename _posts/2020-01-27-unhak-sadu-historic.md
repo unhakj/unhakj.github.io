@@ -12,7 +12,10 @@ tags:
 ![image-left](/assets/images/sadu2021.png){: .align-right}
 광명시 운학정은 대한궁도협회 경기도궁도협회 소속으로 민족고유의 전통 무술인 활을 통하여 문화유산을 계승하고 궁도인의 저변확대와 궁술연마를 통하여 심신단련과 회원 상호간의 친목유대와 전국대회 및 경기도대회 등 각종 대회에 출전하여 광명시의 명예를 향상시킨다.
 
-## 운학정 역대 사두
+
+
+
+## 운학정 역대 사두             
 | 대수  | 성명   | 기간         | 비고  |
 | ----- | ----- | -----        | ----- |
 | 1     | 김기동 |             |   |
@@ -29,6 +32,16 @@ tags:
 | 12    | 박용득 | 2008 ~ 2009 |   |
 | 13,14 | 오유석 | 2010 ~ 2014 |   |
 | 15,16 | 정명만 | 2015 ~ 2018 |   |
+
+
+| Notice Type | Class              |
+| ----------- | -----              |
+| Default     | `.notice`          |
+| Primary     | `.notice--primary` |
+| Info        | `.notice--info`    |
+| Warning     | `.notice--warning` |
+| Success     | `.notice--success` |
+| Danger      | `.notice--danger`  |
 
 | Button Type   | Example | Class | Kramdown |
 | ------        | ------- | ----- | ------- |
