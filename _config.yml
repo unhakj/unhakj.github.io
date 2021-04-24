@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "사두 김기형"
   avatar           : "/assets/images/logo.png"
-  bio              : "2018.12 ~ ."
+  bio              : "2019.01 ~ 현재"
   location         : "광명시 가림로 59"
   email            : "unhakj@gmail.com"
   links:
@@ -276,7 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       show_date: true
       comments: # true
       share: true

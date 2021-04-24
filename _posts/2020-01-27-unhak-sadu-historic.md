@@ -15,7 +15,7 @@ tags:
 ## 운학정 역대 사두
 ---
 |대수|성명|기간|비고|
-|---|---|---|---|
+|-----|-----|-----|-----|
 |1|김기동|||
 |2|강철희|||
 |3|윤치경|||
@@ -30,3 +30,14 @@ tags:
 |12|박용득|2008 ~ 2009||
 |13,14|오유석|2010 ~ 2014||
 |15,16|정명만|2015 ~ 2018||
+
+| Button Type   | Example | Class | Kramdown |
+| ------        | ------- | ----- | ------- |
+| Default       | [Text](#link){: .btn} | `.btn` | `[Text](#link){: .btn}` |
+| Primary       | [Text](#link){: .btn .btn--primary} | `.btn .btn--primary` | `[Text](#link){: .btn .btn--primary}` |
+| Success       | [Text](#link){: .btn .btn--success} | `.btn .btn--success` | `[Text](#link){: .btn .btn--success}` |
+| Warning       | [Text](#link){: .btn .btn--warning} | `.btn .btn--warning` | `[Text](#link){: .btn .btn--warning}` |
+| Danger        | [Text](#link){: .btn .btn--danger} | `.btn .btn--danger` | `[Text](#link){: .btn .btn--danger}` |
+| Info          | [Text](#link){: .btn .btn--info} | `.btn .btn--info` | `[Text](#link){: .btn .btn--info}` |
+| Inverse       | [Text](#link){: .btn .btn--inverse} | `.btn .btn--inverse` | `[Text](#link){: .btn .btn--inverse}` |
+| Light Outline | [Text](#link){: .btn .btn--light-outline} | `.btn .btn--light-outline` | `[Text](#link){: .btn .btn--light-outline}` |
