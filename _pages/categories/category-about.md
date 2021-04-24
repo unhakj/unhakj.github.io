@@ -1,5 +1,5 @@
 ---
-title: "운학정 소개"
+title: "소개"
 layout: archive
 permalink: /categories/about
 author_profile: true
