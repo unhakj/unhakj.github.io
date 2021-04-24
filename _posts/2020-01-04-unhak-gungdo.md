@@ -5,9 +5,9 @@ categories:
 tags:
   - 궁도
   - 활쏘기
+classes: wide
 toc: true
-toc_label: "궁도(활쏘기) 배우기"
-toc_icon: "heart"
+toc_label: "목차"
 ---
 
 ## 궁도란 무엇인가? 
