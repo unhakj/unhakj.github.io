@@ -11,8 +11,10 @@ tags:
 
 ## 회원 모집 요강
 
-![image-left](/assets/images/member_join.jpg)
-(사진 왼쪽 부터 사두님, 사범님, 총무님)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/member_join.jpg" alt="">
+  <figcaption>(사진 왼쪽 부터 사두님, 사범님, 총무님)</figcaption>
+</figure> 
 
 광명시 **운학정**에서 함께할 **궁도인**을 모집 합니다.
 
@@ -25,17 +27,10 @@ tags:
 문의 메일 : <unhakj@gmail.com> (대표메일)     
 입회비 : 300,000원 (3개월 분납 가능)     
 월회비 : 30,000원     
-운학정 주소 : 경기 광명시 가림로 59 (광명시립국궁장)
-<!-- * 카카오맵 - 지도퍼가기 -->
+주소 : 경기 광명시 가림로 59 (광명시립국궁장)
 <!-- 1. 지도 노드 -->
 <div id="daumRoughmapContainer1619354906479" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-
-<!--
-	2. 설치 스크립트
-	* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
--->
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-
 <!-- 3. 실행 스크립트 -->
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
