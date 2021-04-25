@@ -14,37 +14,41 @@ tags:
 
 광명시 **운학정**에서 함께할 **궁도인**을 모집 합니다.
 
+국궁(國弓)은 조상의 얼과 슬기가 담긴 전통무예를 바탕으로 하여 발전한 스포츠로서 조상의 슬기와 얻을 만끽할 수 있는 점과 시간에 구애받지 않고 남녀노소 누구나 할 수 있는 특징과 효과가 있습니다.     
+또한 혼자서 즐겁게 수련할 수 있고, 건강 및 정신수양에 알맞은 스초츠입니다.
+
+전통무예 국궁에 관심있으신 분들의 많은 참여를 바랍니다.
+
+문의 전화 : 010.5307.0279 (운학정 사범님)     
+문의 메일 : unhakj@gmail.com (운학정 대표메일)     
 입회비 : 300,000원 (3개월 분납 가능)     
 월회비 : 30,000원     
-문의 전화 : 010.5307.0279 (운학정 사범님)
-문의 메일 : unhakj@gmail.com (운학정 대표메일)
+
 ## 자주 질문 하는 내용
 
-> 입회비가 뭔가요?
+> 입회비는 뭔가요?
 
-Watch out! This paragraph of text has been emphasized with the {: .notice--primary} class.
+현재 [대한궁도협회](http://www.kungdo.or.kr/)에 등록된 정(활터)이 전국에 380곳이 있습니다. 
+각 정에 사원(회원)으로 등록하는 등록비라고 생각 하시면 됩니다.(각 정마다 차이 있음)
+운학정 입회(회원등록)를 하시면 정식회원으로 인정되고 [대한궁도협회](http://www.kungdo.or.kr/)에 등록된 전국 어느 활터에 가더라도 활쏘기를 무료로 즐길 수 있습니다.
 {: .notice}
 
-> 배우는데 얼마나 시간이 걸리나요?
+> 월회비는 뭔가요?
 
-Watch out! This paragraph of text has been emphasized with the {: .notice--info} class.
-{: .notice--info}
-
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
+운학정(활터)를 이용하는 이용료라고 생각하시면 됩니다.
+운학정은 수익창출을 목적으로 하는 곳이 아니라 회원들에게 회비를 걷어 시설(광명시청) 사용료, 전기세, 수도비, 회식비 등 운학정 운영을 원활하게 하는 목적으로 사용됩니다.
 {: .notice}
 
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--primary}` class.
-{: .notice--primary}
+> 교육비는 얼마나 하나요?
 
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
-{: .notice--info}
+현재 운학정은 사범(활선생)님이 있어서 신사(신입회원)가 입회를 하시면 체계적으로 교육 하고 있으며 교육비는 무료 입니다.
+다만 교육시간은 사범님과 의논 후 결정 해야 합니다.
+{: .notice}
 
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--warning}` class.
-{: .notice--warning}
+> 장비를 구매 해야 하나요?
 
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--success}` class.
-{: .notice--success}
+신사 입정시 교육에 필요한 연습용 장비(활, 화살, 각지, 궁대)는 운학정에서 지원 하고 있습니다.
+(차후 개인장비를 구매해야 하는 경우는 개인 부담 입니다.)
+{: .notice}
 
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
-{: .notice--danger}
+[주소에 대한 설명](http://www.google.co.kr).
