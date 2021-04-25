@@ -11,7 +11,7 @@ tags:
 
 ## 회원 모집 요강
 
-![image-left](/assets/images/member_join.png)
+![image-left](/assets/images/member_join.jpg)
 
 광명시 **운학정**에서 함께할 **궁도인**을 모집 합니다.
 
