@@ -10,36 +10,21 @@ tags:
 ---
 
 ## 회원 모집 요강
-
+광명시 **운학정**에서 함께할 **궁도인**을 모집 합니다.
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/member_join.jpg" alt="">
   <figcaption>(사진 왼쪽 부터 사두님, 사범님, 총무님)</figcaption>
 </figure> 
-
-광명시 **운학정**에서 함께할 **궁도인**을 모집 합니다.
-
 국궁(國弓)은 조상의 얼과 슬기가 담긴 전통무예를 바탕으로 하여 발전한 스포츠로서 조상의 슬기와 얼을 만끽할 수 있는 점과 시간에 구애받지 않고 남녀노소 누구나 할 수 있는 특징과 효과가 있습니다.     
 또한 혼자서 즐겁게 수련할 수 있고, 건강 및 정신수양에 알맞은 스포츠입니다.
 
 전통무예 국궁에 관심있으신 분들의 많은 참여를 바랍니다.
 
+주소 : 경기 광명시 가림로 59 (광명시립국궁장) [지도보기](http://kko.to/NkyPS-QD0)
 문의 전화 : 010.5307.0279 (운학정 사범님)     
 문의 메일 : <unhakj@gmail.com> (대표메일)     
 입회비 : 300,000원 (3개월 분납 가능)     
 월회비 : 30,000원     
-주소 : 경기 광명시 가림로 59 (광명시립국궁장)
-<!-- 1. 지도 노드 -->
-<div id="daumRoughmapContainer1619354906479" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-<!-- 3. 실행 스크립트 -->
-<script charset="UTF-8">
-	new daum.roughmap.Lander({
-		"timestamp" : "1619354906479",
-		"key" : "25hus",
-		"mapWidth" : "640",
-		"mapHeight" : "360"
-	}).render();
-</script>
 ## 자주 질문 하는 내용
 
 > 입회비는 뭔가요?
