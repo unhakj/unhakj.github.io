@@ -1,7 +1,7 @@
 ---
 title: "운학정 홈 페이지"
 layout: splash
-permalink: /home
+permalink: /
 hidden: #true
 header:
   overlay_color: "#5e616c"

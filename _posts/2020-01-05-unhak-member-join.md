@@ -8,7 +8,9 @@ tags:
   - 모집  
 ---
 
-## 회원 모집 요강.
+![image-left](/assets/images/member_join.png)
+
+## 회원 모집 요강
 
 모집 요강     
 입회비 : 100,000원     
