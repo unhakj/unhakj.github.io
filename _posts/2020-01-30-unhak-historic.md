@@ -59,6 +59,9 @@ tags:
 | 1981 | 01    | 평덕창 사두 취임                 |
 
 ## 운학정 위치
+경기 광명시 하안동에 위치하고 있는 운학정     
+주소 : 경기 광명시 가림로 59 (우)14260    
+메일 : <unhakj@gmail.com>    
 <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
 <div id="daumRoughmapContainer1619237575497" class="root_daum_roughmap root_daum_roughmap_landing"></div>
