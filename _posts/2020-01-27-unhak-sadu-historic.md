@@ -1,5 +1,5 @@
 ---
-title: "제18대 사두 김기형"
+title: "제19대 사두 김인섭"
 categories:
   - about
 tags:
