@@ -23,4 +23,24 @@ tags:
 
 광명시 궁도협회 사두 김인섭 배상
 
-![운학정 제19대 사두 김인섭](/assets/images/game/chairman4_sadu19_01.jpg "운학정 제19대 사두 김인섭")
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_01.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_02.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_03.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_04.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_05.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_06.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_07.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_08.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_09.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_10.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
+
+![제4회 광명시궁도협회장배 궁도대회](/assets/images/game/chairman4_sadu19_11.jpg "제19대 운학정 사두취임 궁도대회"){: .align-center}
