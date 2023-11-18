@@ -56,10 +56,6 @@ tags:
 
 ![제14회 광명시장배 궁도대회](/assets/images/game/chairman14_tenjeong_15.jpg "제164회 경기남부 10개정 남·녀 궁도대회"){: .align-center}
 
-![제14회 광명시장배 궁도대회](/assets/images/game/chairman14_tenjeong_16.jpg "제164회 경기남부 10개정 남·녀 궁도대회"){: .align-center}
-
-![제14회 광명시장배 궁도대회](/assets/images/game/chairman14_tenjeong_17.jpg "제164회 경기남부 10개정 남·녀 궁도대회"){: .align-center}
-
 ![제14회 광명시장배 궁도대회](/assets/images/game/chairman14_tenjeong_18.jpg "제164회 경기남부 10개정 남·녀 궁도대회"){: .align-center}
 
 ![제14회 광명시장배 궁도대회](/assets/images/game/chairman14_tenjeong_19.jpg "제164회 경기남부 10개정 남·녀 궁도대회"){: .align-center}
