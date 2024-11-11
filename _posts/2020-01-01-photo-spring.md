@@ -24,6 +24,16 @@ tags:
 
 ### 가을
 
+![광명시 운학정 가을 이미지1](/assets/images/about/photo_autumn_001.jpg "광명시 운학정 가을 이미지1"){: .align-center}
+
+![광명시 운학정 가을 이미지2](/assets/images/about/photo_autumn_002.jpg "광명시 운학정 가을 이미지2"){: .align-center}
+
+![광명시 운학정 가을 이미지3](/assets/images/about/photo_autumn_003.jpg "광명시 운학정 가을 이미지3"){: .align-center}
+
+![광명시 운학정 가을 이미지4](/assets/images/about/photo_autumn_004.jpg "광명시 운학정 가을 이미지4"){: .align-center}
+
+![광명시 운학정 가을 이미지5](/assets/images/about/photo_autumn_005.jpg "광명시 운학정 가을 이미지5"){: .align-center}
+
 ### 겨울
 
 ![광명시 운학정 겨울 이미지1](/assets/images/about/photo_winter_001.jpg "광명시 운학정 겨울 이미지1"){: .align-center}
